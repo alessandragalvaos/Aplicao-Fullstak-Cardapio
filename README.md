@@ -19,5 +19,34 @@ Node.js e npm
 Banco de dados (MongoDB, MySQL, etc.)
 
 Passo a passo
+
 Clone o repositório:
+https://github.com/alessandragalvaos/Aplicao-Fullstak-Cardapio.git
+
+Navegue até a pasta do projeto
+cd Aplicao-Fullstak-Cardapio
+
+Instale as dependências do backend:
+cd .../cardapio-back
+npm install
+
+Configure as variáveis de ambiente (como conexão ao banco de dados)
+
+Inicie o servidor backend:
+npm start
+
+Na pasta raiz, configure o frontend:
+
+cd .../cardapio-end
+npm install
+
+Inicie o frontend:
+npm start
+
+Como Usar
+Acesse o endereço local (http://localhost:3000 ou a porta que você configurou)
+
+Por fim, para executar o projeto basta rodar o seguinte:
+
+npm run dev
 
