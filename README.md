@@ -1,9 +1,12 @@
 Cardápio Digital Fullstack
 
 Sobre o Projeto
-Este é um sistema de Cardápio Digital desenvolvido em uma arquitetura fullstack, um simples  protótipo de um Cardápio Digital desenvolvido durante meus estudo práticos no YouTube. A aplicação foi desenvolvida usando React, Typescript e React Query. F criada com foco em usabilidade, responsividade e gerenciamento eficiente de dados.
+Projeto desenvolvido com base em um tutorial do YouTube para colocar meus conhecimentos em prática.
+Este é um sistema de Cardápio Digital desenvolvido em uma arquitetura fullstack, um simples  protótipo de um Cardápio Digital. A aplicação foi desenvolvida usando React, Typescript e React Query. F criada com foco em usabilidade, responsividade e gerenciamento eficiente de dados.
 
-![image](https://github.com/user-attachments/assets/aaf9e543-e6c9-4be3-ace2-81200eb8879b)
+![image](https://github.com/user-attachments/assets/9a231286-925c-4795-b538-ff9ac0ed108f) ![image](https://github.com/user-attachments/assets/7a55bef0-ef0d-4e70-a2c5-25fdf99f542f)
+
+
 
 Tecnologias Utilizadas
 Frontend: React.js 
@@ -43,6 +46,14 @@ npm install
 Inicie o frontend:
 npm start
 
+🔧 Compilação
+Para compilar a aplicação para produção, execute o seguinte comando:
+
+npm run build
+Isso irá gerar uma versão otimizada da aplicação na pasta dist.
+
+Esse estudo foi para colocar em prática os conhecimentos e 
+
 Como Usar
 Acesse o endereço local (http://localhost:3000 ou a porta que você configurou)
 
@@ -50,3 +61,7 @@ Por fim, para executar o projeto basta rodar o seguinte:
 
 npm run dev
 
+
+Observação: Este projeto foi criado seguindo o tutorial ttps://github.com/Fernanda-Kipper/frontend-cardapio.git
+
+O projeto ainda passará por mais melhoria que em breve estará disponível.
