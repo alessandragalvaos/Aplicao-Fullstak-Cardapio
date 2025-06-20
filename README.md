@@ -65,3 +65,5 @@ npm run dev
 Observação: Este projeto foi criado seguindo o tutorial ttps://github.com/Fernanda-Kipper/frontend-cardapio.git
 
 O projeto ainda passará por mais melhoria que em breve estará disponível.
+
+
